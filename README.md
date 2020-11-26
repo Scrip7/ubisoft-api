@@ -11,6 +11,9 @@ A handy npm package to extract data from Ubisoft services by reverse-engineering
 </p>
 
 ## 📋 Table of contents
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/efd2e9428b89473bbab8261f558ff453)](https://app.codacy.com/gh/Scrip7/ubisoft-api?utm_source=github.com&utm_medium=referral&utm_content=Scrip7/ubisoft-api&utm_campaign=Badge_Grade_Settings)
+
 - [Introduction](#-introduction)
 - [Features](#-features)
 - [Supported Games](#-supported-games)
