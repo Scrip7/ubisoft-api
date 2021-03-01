@@ -32,7 +32,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "https-proxy-agent": "^5.0.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "lowdb": "^1.0.0",
     "map-factory": "^3.8.5"
   },
