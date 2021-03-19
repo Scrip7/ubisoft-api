@@ -328,6 +328,4 @@ Output:
 
 If you have any questions regarding this package, feel free to be in touch with me!
 
-Discord: `Script#0001`
-
 Twitter: [@Skr1p7](https://twitter.com/intent/user?screen_name=Skr1p7)
